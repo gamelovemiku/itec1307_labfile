@@ -1,3 +1,3 @@
 @echo off
-setx path "%path%;C:\Windows\php"
+setx path "%path%;D:\6014110007\php"
 pause

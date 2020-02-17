@@ -1,1 +1,1 @@
-php -S localhost:3000 -t public_html
+php artisan serve
