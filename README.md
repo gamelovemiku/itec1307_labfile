@@ -1,10 +1,10 @@
 <h1>ไฟล์ Lab ทั้งหมดของวิชา ITEC1307 - E-Commerce</h1>
 <p>รวมไฟล์ทั้งหมดของวิชา ITEC1307 แยกออกเป็น 4 Branch</p>
 
-<h4>รายละเอียดของแต่ละ Brunch</h4>
+<h4>รายละเอียดของแต่ละ Branch</h4>
 <table>
     <thead>
-        <td>ชื่อ Brunch</td>
+        <td>ชื่อ Branch</td>
         <td>รายละเอียด</td>
     </thead>
     <tbody>
