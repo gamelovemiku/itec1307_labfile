@@ -12,27 +12,9 @@
 </head>
 
 <body>
-    <header id="header" class="page-header">
-        <div class="title">
-            <h1>Wombat Coffee Roasters</h1>
-            <div class="slogan">We love coffee</div>
-        </div>
-    </header>
+<?php require_once("../includes/braintree_init.php"); ?>
 
-    <nav class="menu" id="main-menu">
-
-        <button class="menu-toggle" id="toggle-menu">
-            toggle menu
-        </button>
-        <div class="menu-dropdown">
-            <ul class="nav-menu">
-                <li><a href="/about.html">About</a></li>
-                <li><a href="/shop.html">Shop</a></li>
-                <li><a href="/menu.html">Menu</a></li>
-                <li><a href="/brew.html">Brew</a></li>
-            </ul>
-        </div>
-    </nav>
+    <?php require_once("../includes/header.php"); ?>
 
     <aside id="hero" class="hero">
         Welcome to Wombat Coffee Roasters! We are
